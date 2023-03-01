@@ -1,0 +1,91 @@
+h1 {
+    font-weight: bold;
+    color: black;
+    position: relative;
+    text-align: center;
+    font-size: 100px;
+    background-color: rgb(1, 214, 132);
+    margin: 0%;
+    }
+    body {
+        font-family:'Raleway', sans-serif;
+        font-weight: bold;
+    }
+ #imagen { 
+    position: relative;
+    text-align: center;
+    image-rendering: optimizeQuality;
+    background-color: rgb(1, 214, 132);
+    margin: 0%;
+
+}
+#logotipos {
+    position: relative;
+display: flex;
+font-size: 25px;
+}
+#datos {
+    margin-top: 100px;
+}
+#imagenes2 {
+margin-left: 300px;
+}
+#imagenes1 {
+    margin-left: 100px;
+}
+#imagenes3 {
+    margin-left: 200px;
+    
+}
+#logotipos2 {
+    position: relative;
+    display:flex ;
+    font-size: 25px;
+}
+#datos2 {
+    margin-top: 100px;
+    margin-left: 50px;
+}
+#boton {
+    color: white;
+    background-color: rgb(1, 214, 132) ;
+    border: 0cm;
+    font-size: 50px;
+    position: relative;
+    margin-left: 475px;  
+}
+#text1 {
+    font-size: 30px;
+    color: black;
+    position: relative;
+    text-align: center;
+}
+
+#boton2 {
+    color: white;
+    background-color: rgb(1, 214, 132) ;
+    border: 0cm;
+    font-size: 50px;
+    position: relative;
+    margin-left: 325px;  
+}
+#text2 {
+    font-size: 30px;
+    color: black;
+    position: relative;
+    text-align: center;
+}
+#boton3 {
+    color: white;
+    background-color: rgb(1, 214, 132) ;
+    border: 0cm;
+    font-size: 50px;
+    position: relative;
+    margin-left: 420px;  
+}
+#text3 {
+    font-size: 30px;
+    color: black;
+    position: relative;
+    text-align: center;
+}
